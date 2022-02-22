@@ -25,4 +25,4 @@ The Numbers: <br/>
 -Percentage of 5-Star Non-Vine Reviews: 60.14977452099642 % <br/>
 
 ## Summary
-In this particular dataset, there does not seem to be a positivity bias in the Vine Program. However, it is important to note that there were zero Vine Reviews in this dataset. This is abnormal when comparing the numbers with other datasets; cursory looks at these other datasets depict that there are many Amazon Vine members submitting reviews. The lack of Amazon Vine member reviews is most likely an abnormality. 
+In this particular dataset, there does not seem to be a positivity bias in the Vine Program. However, it is important to note that there were zero Vine Reviews in this dataset. This is abnormal when comparing the numbers with other datasets; cursory looks at these other datasets depict that there are many Amazon Vine members submitting reviews. The lack of Amazon Vine member reviews is most likely an abnormality and consequently the analysis of this dataset cannot conclusively determine whether or not there is a positivity bias with Amazon Vine members.
